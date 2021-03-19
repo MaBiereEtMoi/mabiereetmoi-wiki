@@ -16,3 +16,7 @@
 - Choix d'une API pour la récupération de données sur les bières
 
 ## 26/03
+
+Lien vers le détail des tâches : 
+https://docs.google.com/spreadsheets/d/1L29Zw-Agd9YQEqdhwybr4BMqOjfpAfmP-474YhViKLI/edit?usp=sharing
+
