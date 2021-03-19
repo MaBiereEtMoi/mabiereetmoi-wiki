@@ -13,3 +13,5 @@
 
 - Authentification terminée et fonctionnelle côté back avec un premier prototype de formulaire côté back
 - Structure du projet back en ce qui concerne la gestion des produits mise en place
+
+## 26/03
