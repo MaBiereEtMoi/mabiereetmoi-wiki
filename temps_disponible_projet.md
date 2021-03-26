@@ -7,5 +7,5 @@
 - Tony : 4h
 - Gabriel : 4h
 
-Les temps son disponibles ici :
+Les temps sont disponibles ici :
 https://docs.google.com/spreadsheets/d/1L29Zw-Agd9YQEqdhwybr4BMqOjfpAfmP-474YhViKLI/edit?usp=sharing
