@@ -26,10 +26,15 @@ https://docs.google.com/spreadsheets/d/1L29Zw-Agd9YQEqdhwybr4BMqOjfpAfmP-474YhVi
 - Recherche infructueuse d'une API et première implémentation de notre propre API
 - Authentification terminée
 - Premier jet d'une structure du projet back pour les entités Bières, Utilisateurs, Commentaires
+- Définition de la charte graphique
+- Mise en commun de ce qui a été fait par chacun, et de ce qu'il reste à faire
 
 ### Ce que l'on souhaite atteindre pour la semaine prochaine
 
-- 
+- Insetion de la charte graphique sur les pages de connexion
+- Création de la page du détail d'une bière
+- Scan d'une bière et redirection vers sa page descriptive
+- Remplissage de la base de données
 
 
 
