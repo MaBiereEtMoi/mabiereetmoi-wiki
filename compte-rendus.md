@@ -1,5 +1,8 @@
 # Compte-rendus
 
+Lien vers le détail des tâches par semaine : 
+https://docs.google.com/spreadsheets/d/1L29Zw-Agd9YQEqdhwybr4BMqOjfpAfmP-474YhViKLI/edit?usp=sharing
+
 ## 19/03
 
 ### Ce qu'on a fait
@@ -17,6 +20,16 @@
 
 ## 26/03
 
-Lien vers le détail des tâches : 
-https://docs.google.com/spreadsheets/d/1L29Zw-Agd9YQEqdhwybr4BMqOjfpAfmP-474YhViKLI/edit?usp=sharing
+### Ce qu'on a fait
+
+- Structuration complète et optimisé du projet Angular (pages, component, model, services)
+- Recherche infructueuse d'une API et première implémentation de notre propre API
+- Authentification terminée
+- Premier jet d'une structure du projet back pour les entités Bières, Utilisateurs, Commentaires
+
+### Ce que l'on souhaite atteindre pour la semaine prochaine
+
+- 
+
+
 
