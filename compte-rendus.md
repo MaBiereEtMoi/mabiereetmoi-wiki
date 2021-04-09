@@ -36,5 +36,18 @@ https://docs.google.com/spreadsheets/d/1L29Zw-Agd9YQEqdhwybr4BMqOjfpAfmP-474YhVi
 - Scan d'une bière et redirection vers sa page descriptive
 - Remplissage de la base de données
 
+## 02/04
 
+### Ce qu'on a fait
+
+- Insetion de la charte graphique sur la page de login
+- Début de la page du détail d'une bière
+- Choix du  composant pour le Scan d'une bière
+- Remplissage de la base de données
+- Création des maquettes
+
+### Ce que l'on souhaite atteindre pour la semaine prochaine
+- Création des composants et routers nécessaires pour le développement
+- Scan d'un code barre
+- Fin de la création de la page descriptive d’une bière (insertion de l'image de la bière)
 
