@@ -79,6 +79,6 @@ https://docs.google.com/spreadsheets/d/1L29Zw-Agd9YQEqdhwybr4BMqOjfpAfmP-474YhVi
 
 ### Ce que l'on souhaite atteindre pour la semaine prochaine
 - page publique de l'utilisateur (sans la photo)
-- 
-
+- recherche d'un utilisateur (back)
+- modification affichage du listing des commentaires
 
