@@ -51,3 +51,34 @@ https://docs.google.com/spreadsheets/d/1L29Zw-Agd9YQEqdhwybr4BMqOjfpAfmP-474YhVi
 - Scan d'un code barre
 - Fin de la création de la page descriptive d’une bière (insertion de l'image de la bière)
 
+
+## 23/04
+
+### Ce qu'on a fait
+
+- préparation de l'oral du livrable 2
+- enregistrement de la démo
+- création de la page admin
+- ajout d'une bière non présente dans la base
+- liaison entre la page descriptive d'une bière et le scan
+
+### Ce que l'on souhaite atteindre pour la semaine prochaine
+- avis (back & front)
+- historique (back & front)
+- favoris (back & front)
+
+
+## 14/05
+
+### Ce qu'on a fait
+
+- préparation de l'oral du livrable 2
+- avis (back & front)
+- historique (back & front)
+- favoris (back & front)
+
+### Ce que l'on souhaite atteindre pour la semaine prochaine
+- page publique de l'utilisateur (sans la photo)
+- 
+
+
