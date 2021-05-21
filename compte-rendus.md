@@ -82,3 +82,18 @@ https://docs.google.com/spreadsheets/d/1L29Zw-Agd9YQEqdhwybr4BMqOjfpAfmP-474YhVi
 - recherche d'un utilisateur (back)
 - modification affichage du listing des commentaires
 
+## 21/05
+
+### Ce qu'on a fait
+
+- Mise au point sur l'avancement du projet
+- Mise de côté des tâches moins essentielles 
+- Recherche d'un utilisateur (back)
+- création de la page publique de l'utilisateur
+
+### Ce que l'on souhaite atteindre pour la semaine prochaine
+- amélioration de la page publique de l'utilisateur
+- rechercher utilisateur (front)
+- définition des badges
+- début du travail sur les notifications
+
