@@ -97,3 +97,19 @@ https://docs.google.com/spreadsheets/d/1L29Zw-Agd9YQEqdhwybr4BMqOjfpAfmP-474YhVi
 - définition des badges
 - début du travail sur les notifications
 
+## 28/05
+
+### Ce qu'on a fait
+
+- Rapport d'avancement
+- Fin de la recher d'un utilisateur
+- Chiffrage des tâches restantes
+- Documentation sur la faisabilités des notifications
+- ajout de photos pour les utilisateurs
+
+### Ce que l'on souhaite atteindre pour la semaine prochaine
+- définition des badges
+- photos pour les bières
+- mise en place des 2 langues (FR/EN)
+
+
