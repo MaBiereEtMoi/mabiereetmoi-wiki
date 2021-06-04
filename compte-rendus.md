@@ -112,4 +112,26 @@ https://docs.google.com/spreadsheets/d/1L29Zw-Agd9YQEqdhwybr4BMqOjfpAfmP-474YhVi
 - photos pour les bières
 - mise en place des 2 langues (FR/EN)
 
+## 28/05
+
+### Ce qu'on a fait
+
+- définition des badges (définir les badges, leur trouver un nom)
+- création des logos pour les badges
+- ajouter les photos pour les bières
+- mise en place des 2 langues (FR/EN)
+- ajouter une photo de profil pour l'utilisateur
+- prendre une photo pour la photo de profil utilisateur
+- création des services, repo, modèles pour les badges
+- création du script pour les badges
+- préparation du rendu final
+
+### Ce que l'on souhaite atteindre pour la semaine prochaine
+- déclanchement des badges
+- affichage des badges obtenus pas l'utilisateur
+- affichage de tous les badges disponibles
+- limitation de la fonction admin
+- fin de la création du diapo pour la présentation finale
+
+
 
